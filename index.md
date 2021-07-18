@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+<html lang="en">
+	<head>
+	<title>Crussssh</title>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="css/style.css">
 
-You can use the [editor on GitHub](https://github.com/Tombooboo/Whosknow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<link rel="stylesheet" href="css/spinload.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Pacifico" />
 
-### Markdown
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	</head>
+	<body>
+	<div class="wrapper">
+	<!-- Preloader -->
+	<div id="preloader">
+	<div class="spinner">
+	<div class="rect1"></div>
+	<div class="rect2"></div>
+	<div class="rect3"></div>
+	<div class="rect4"></div>
+	<div class="rect5"></div>
+	</div>
+	</div>
+	<div id="bg"></div>
+	<div class="content">
+	<header>
+	<h2> Đố Hà My trả lời được nhé </h2>
+	<h4>Không trả lời được là anh biết đấy. Anh biết em chọn đáp án gì đấy </h4>
+	</header>
+	<button id="yes" type="button" class="btn btn-danger btn-lg">Yêu ơi là yêuuuuuu <333 </button>
+	<button id="no" type="button" class="btn btn-info btn-lg">Cậu mơ à :333 </button>
+	</div>
+	</div>
+	<audio src="./sound/sound.mp3" autoplay></audio>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<!-- Optional JavaScript -->
+	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+	<script
+	src="https://code.jquery.com/jquery-3.4.1.js"
 
-```markdown
-Syntax highlighted code block
+	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
-# Header 1
-## Header 2
-### Header 3
+	<script src="js/myJs.js"></script>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tombooboo/Whosknow/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	
+	</body>
+	</html>
+![image](https://user-images.githubusercontent.com/87619797/126082285-11db6754-c3fd-4035-8aac-fa29210861bc.png)

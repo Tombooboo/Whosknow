@@ -54,6 +54,4 @@
 	
 	</body>
 	</html>
-
-
-![image](https://user-images.githubusercontent.com/87619797/126081856-549b7735-6182-4bf8-bd28-bcea17fa92e6.png)
+![image](https://user-images.githubusercontent.com/87619797/126081898-cf95028a-5fa4-48a7-adb7-aba61d494c71.png)
